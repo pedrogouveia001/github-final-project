@@ -4,7 +4,7 @@ A simple Bash script that calculates simple interest based on principal, annual 
 
 ## Formula
 
-Simple Interest = Principal × Annual Rate × Time
+Simple Interest = Principal × (Annual Rate / 100) × Time
 
 ## Usage
 
